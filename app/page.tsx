@@ -6,10 +6,8 @@ import {
   FaLinkedin,
   FaEnvelope,
   FaReact,
-  FaNodeJs,
   FaHtml5,
   FaCss3Alt,
-  FaDatabase,
   FaPython,
   FaServer,
   FaJs,
@@ -137,7 +135,7 @@ const Home = () => {
       <main className="flex flex-col items-center justify-center h-screen pb-10 bg-gradient-to-b from-gray-900 to-gray-800">
         <h1 className="text-4xl font-bold mt-12">Welcome to My Portfolio</h1>
         <p className="mt-4 text-center max-w-2xl">
-          I'm a web developer passionate about building clean, responsive, and
+          I am a web developer passionate about building clean, responsive, and
           efficient web applications. With experience in frontend and backend
           development, I bring your ideas to life through modern technologies
           like React, Next.js, Tailwind CSS, and Django.
